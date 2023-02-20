@@ -1,0 +1,14 @@
+.app {
+    padding: 10px;
+    height: 100vh;
+}
+
+h1 {
+    color: blue;
+    font-style: italic;
+  }
+
+  .todo {
+    color: blueviolet;
+  }
+
